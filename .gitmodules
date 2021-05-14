@@ -1,4 +1,4 @@
 [submodule "squash"]
 	path = squash
 	url = https://github.com/llpcarson/squash
-        branch = mynewbranch
+        branch = master
